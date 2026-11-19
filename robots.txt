@@ -1,0 +1,4 @@
+# Pre-publication: change to 'Allow: /' and enable the sitemap line after client verification
+User-agent: *
+Disallow: /
+# Sitemap: https://www.aervanta.example/sitemap.xml
